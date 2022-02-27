@@ -1,0 +1,33 @@
+
+#ifndef SENSORSRANGES_H_
+#define SENSORSRANGES_H_
+
+#define FINGER1_UNBENT1  (65U)
+#define FINGER1_UNBENT2  (65U)
+#define FINGER1_BENT1    (28U)
+#define FINGER1_BENT2    (31U)
+
+#define FINGER2_UNBENT1  (59U)
+#define FINGER2_UNBENT2  (63U)
+#define FINGER2_BENT1    (39U)
+#define FINGER2_BENT2    (41U)
+
+#define FINGER3_UNBENT1  (68U)
+#define FINGER3_UNBENT2  (72U)
+#define FINGER3_BENT1    (39U)
+#define FINGER3_BENT2    (42U)
+
+#define FINGER4_UNBENT1  (60U)
+#define FINGER4_UNBENT2  (61U)
+#define FINGER4_BENT1    (31U)
+#define FINGER4_BENT2    (34U)
+
+#define FINGER5_UNBENT1  (65U)
+#define FINGER5_UNBENT2  (65U)
+#define FINGER5_BENT1    (40U)
+#define FINGER5_BENT2    (43U)
+
+
+
+
+#endif /* SENSORSRANGES_H_ */
